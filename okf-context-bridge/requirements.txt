@@ -1,0 +1,4 @@
+anthropic[vertex]
+mcp
+pyyaml
+sqlite3
