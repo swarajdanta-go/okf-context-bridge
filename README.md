@@ -1,4 +1,4 @@
-# OKF Context Bridge (Enterprise Edition)
+# OKF Context Bridge 
 
 An automated, event-driven enterprise metadata pipeline that bridges the "context gap" for AI agents. This platform automatically monitors Google Cloud BigQuery data warehouses, extracts raw schemas via the Model Context Protocol (MCP), enriches them with business context using Claude 3.5 Sonnet on Vertex AI, and compiles them into Open Knowledge Format (OKF) bundles stored in Cloud Storage.
 
